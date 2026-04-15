@@ -32,17 +32,13 @@
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" /></a>&nbsp;&nbsp;
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,firebase,linux,mysql,git,github,vscode,visualstudio&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
 </p>
 
 ---
@@ -51,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=burak-yldrm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=burak-yldrm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
 <img src="https://streak-stats.demolab.com?user=burak-yldrm&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 
 <br /><br />
@@ -62,10 +58,10 @@
 
 ---
 
-<h2 align="center">🏆 Trophies</h2>
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=burak-yldrm&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burak-yldrm&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
